@@ -1,0 +1,14 @@
+.progress {
+}
+.gauge {
+  width: 100%;
+  height: 2vh;
+  background: #f7f7f7;
+  margin-top: 10px;
+}
+
+span.fill {
+  display: block;
+  height: inherit;
+  background: #01fff5;
+}
